@@ -51,6 +51,13 @@
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
     </dependency>
+    <dependency>
+      <groupId>org.rediscover4j</groupId>
+      <artifactId>reDiscover4j</artifactId>
+      <version>0.0.1</version>
+      <scope>system</scope>
+      <systemPath>${env.RED4JCP}</systemPath>
+  </dependency>
   </dependencies>
 
   <build>
@@ -147,4 +154,3 @@
   </build>
 
 </project>
-

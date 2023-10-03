@@ -5,3 +5,6 @@ bin/
 .project
 .idea/
 *.iml
+red4j-data/
+**/cp.txt
+**.java.orig
